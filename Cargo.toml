@@ -1,0 +1,15 @@
+[package]
+name = "rusty"
+version = "0.1.0"
+authors = [""]
+edition = "2018"
+
+[dependencies]
+failure = "0.1"
+log = "0.4"
+env_logger = "0.5"
+dotenv = "0.11"
+clap = "2.31"
+serde = "1.0"
+serde_derive = "1.0"
+toml = "0.4"
